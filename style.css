@@ -1,0 +1,12 @@
+*{
+    content: url("http:Codeplug.com");
+    content: inherit;
+    viewport-fit: device-size;
+text-align: justify;
+}
+.header {
+    text-align: center;
+    color:beige;
+    content: icon;
+}
+body{}
